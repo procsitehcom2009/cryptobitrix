@@ -7,7 +7,7 @@
         <div class="container">
             <div class="form-row">
                 <br>
-                <button type="submit" class="btn btn-primary" id="Sign" enabled>Подписать</button>
+                <button type="submit" class="btn btn-primary" id="Sign" enabled>Подписать класс</button>
             </div>
         </div>
     </body>
